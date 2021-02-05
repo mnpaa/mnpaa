@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with Istio, Grafana, Prometheus.
 - 💬 Ask me about Java, Microservices, Docker, Kubernetes.
-- 📫 How to reach me: Twitter @BawlaPandit | ✉︎ @mnpaa1991@gmail.com
+- 📫 How to reach me: Twitter @BawlaPandit | Mail : mnpaa1991@gmail.com
 - ⚡ Fun fact: I love cooking and playing chess.
 
