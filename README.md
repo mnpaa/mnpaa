@@ -10,4 +10,4 @@
 
 Reach out to me on Linkedin via https://www.linkedin.com/in/mnpaa/
 
-Schedule a call/meeting with me via topmate.io/amit_kumar30
+Schedule a call/meeting with me via https://topmate.io/amit_kumar30
