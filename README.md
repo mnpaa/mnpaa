@@ -19,4 +19,5 @@
 **Frameworks:** Spring Boot, UI5, React  
 **Cloud & DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions  
 **Databases:** MySQL, PostgreSQL, Elasticsearch  
-**Other
+
+Email : mnpaa1991@gmail.com
